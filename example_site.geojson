@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Example site, Dubai"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [55.2600, 25.1800],
+          [55.3100, 25.1800],
+          [55.3100, 25.2300],
+          [55.2600, 25.2300],
+          [55.2600, 25.1800]
+        ]]
+      }
+    }
+  ]
+}
